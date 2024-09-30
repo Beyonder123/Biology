@@ -1,0 +1,21 @@
+### **Genetic Algorithm (GA) - Summary**
+
+A **Genetic Algorithm (GA)** is an optimization technique inspired by the process of natural selection and evolution.
+
+#### **Key Components**:
+
+1. **Population**: A group of potential solutions.
+2. **Chromosome**: Representation of a solution, often as a string of numbers or binary digits.
+3. **Fitness Function**: Evaluates how good each solution is.
+4. **Selection**: Chooses the best solutions based on fitness for reproduction.
+5. **Crossover**: Combines two solutions to create offspring.
+6. **Mutation**: Randomly alters solutions to introduce variability.
+
+#### **Process**:
+1. Start with a random population.
+2. Evaluate fitness of each solution.
+3. Select the best solutions for crossover.
+4. Perform crossover and mutation.
+5. Repeat for several generations until a good solution is found.
+
+This is how GAs mimic evolution to find optimal or near-optimal solutions to complex problems.
